@@ -1,0 +1,7 @@
+D:\Tai lieu traning\nghiTV\C# Basic\Exercise\ConsoleApplication2\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Tai lieu traning\nghiTV\C# Basic\Exercise\ConsoleApplication2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Tai lieu traning\nghiTV\C# Basic\Exercise\ConsoleApplication2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Tai lieu traning\nghiTV\C# Basic\Exercise\ConsoleApplication2\ConsoleApplication1\bin\Debug\ClassLibrary1.dll
+D:\Tai lieu traning\nghiTV\C# Basic\Exercise\ConsoleApplication2\ConsoleApplication1\bin\Debug\ClassLibrary1.pdb
+D:\Tai lieu traning\nghiTV\C# Basic\Exercise\ConsoleApplication2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Tai lieu traning\nghiTV\C# Basic\Exercise\ConsoleApplication2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
